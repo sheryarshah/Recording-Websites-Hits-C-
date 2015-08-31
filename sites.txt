@@ -1,0 +1,16 @@
+192.168.1.101 www.cs.stonybrook.edu 01/01/2014
+192.168.1.101 www.cs.stonybrook.edu 01/01/2014
+123.112.15.151 www.cs.stonybrook.edu 01/01/2014
+192.168.1.101 www.espn.com 01/01/2014
+123.112.15.151 www.cs.stonybrook.edu 01/04/2014
+123.112.15.151 www.cs.stonybrook.edu 01/01/2014
+192.168.1.101 www.espn.com 01/11/2014
+192.168.1.101 www.espn.com 01/1/2014
+192.168.1.101 www.espn.com 01/41/2014
+192.168.1.101 www.cs.stonybrook.edu 01/09/2014
+111.176.4.191 www.cs.stonybrook.edu 01/03/2014
+111.176.4.191 www.yahoo.com 01/04/2014
+111.176.4.191 www.yahoo.com 01/09/2014
+192.168.1.101 www.yahoo.com 01/04/2014
+111.176.4.191 www.yahoo.com 01/12/2014
+192.168.1.101 www.espn.com 01/05/2014
